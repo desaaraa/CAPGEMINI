@@ -1,6 +1,6 @@
 package Dia6;
 
-public class persona {
+public class Persona {
 	
 	String nombre;
 	int edad;

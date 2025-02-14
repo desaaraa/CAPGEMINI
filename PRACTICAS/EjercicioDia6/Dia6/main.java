@@ -4,7 +4,7 @@ public class main {
 
 	public static void main(String[] args) {
 
-		persona persona = new persona();
+		Persona persona = new Persona();
 		persona.edad=21;
 		persona.nombre= "Sara";
 		
